@@ -4,7 +4,7 @@
 
 >  Clone the forked repository from your account
 
-> Add your JSON file to the respective folder.
+> Add your python file to the respective folder.
 
 > Commit your changes with an appropriate message.
 
